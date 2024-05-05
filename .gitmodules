@@ -1,0 +1,12 @@
+[submodule "LearnOpenGL/vendor/spdlog"]
+	path = LearnOpenGL/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "LearnOpenGL/vendor/glfw"]
+	path = LearnOpenGL/vendor/glfw
+	url = https://github.com/1e0nhardt/glfw
+[submodule "LearnOpenGL/vendor/glm"]
+	path = LearnOpenGL/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "LearnOpenGL/vendor/imgui"]
+	path = LearnOpenGL/vendor/imgui
+	url = https://github.com/1e0nhardt/imgui.git
