@@ -1,0 +1,13 @@
+#Directories
+.vs/
+bin/
+bin-int/
+LearnOpenGL/assets/models
+LearnOpenGL/assets/textures/pbr
+
+#files
+**.user
+**.vcxproj
+**.filters
+OpenGLToy.sln
+LearnOpenGL/imgui.ini
